@@ -1,0 +1,13 @@
+Variable: es una forma de almacenar algo para usar mas tarde.
+
+Strings: es un tipo de dato, una cadena de caracteres que siempre comienzan y terminan en " ", ' '. (Son bloques de codigo).
+
+Funciones: son un tipo particular de objetos llamados callable objects por lo que tienen las mismas propiedades que cualquier objeto.
+	Argumentos: son los valores que se pasan a la funcion cuando esta es invocada.
+	Parametros: son la lista de variables cuando se define una funcion.
+	return: esta sentencia finaliza la ejecucion de la funcion y especifica un valor para ser devuelto a quien llama la funcion.
+
+Declaraciones: una declaracion o sentencia, es una linea de codigo al mando de una tarea.
+	if: es una palabra clave y se utiliza para el flujo de control que es una forma de que nuestra funcion verifique si algo es true, y ya sea ejecutando el codigo suministrando si es asi o avanzando si no lo es.
+
+Valores booleanos (true/false): son palabras claves en JS (por lo tanto no se pueden utilizar como variables), que se usan para almacenar informacion del tipo si/no, cumple/no cumple, verdadero/falso, por lo tanto solo puede tener dos estados: true y false.
