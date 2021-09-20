@@ -1,0 +1,12 @@
+for: es una keyword utilizada para hacer bucles, a diferencia de otros bucles, este, tiene la siguiente estructura:
+	for (var i = 0; i < 100; i++) {
+		//bloque de codigo
+}
+
+Primero se declara una variable que en este caso es i. El segundo paso es darle una condición y el tercer paso es incrementar la variable que ingresamos, ya que sino entraria en un bucle infinito que solo repetiria o devolveria los valores de i = 0.
+
+&&: operador logico que comprueba las condiciones declaradas, basta que una condicion sea false para que devuelva false.
+
+||: operador logico que comprueba las condiciones declaradas, el unico caso que devuelve false es cuando ambas condiciones son false.
+
+!: operador logico que devolverá el valor booleano opuesto de lo que se le pasa.
