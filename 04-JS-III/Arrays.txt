@@ -1,0 +1,17 @@
+Un array es un objeto tipo lista. Se establecen entre corchetes [] y podemos servirnos como contenedores de mas de un elemento (si quisieramos tampoco le podriamos asignar elementos).
+Existen un monton de metodos que podemos usar en arreglos, como por ejemplo el metodo .length que nos indica la cantidad de elementos que hay dentro de un array.
+Para acceder a los elementos de los arreglos, estos tienen una asignacion numerica segun su posicion:
+
+var ejemplo: [ejemplo1, ejemplo2, ejemplo3]
+		  0	    1	      2  
+Y apartir de ahi si hicieramos:
+
+ejemplo[0] // el resultado seria [ejemplo1]
+
+Tambien otros dos metodos que son .push y .pop
+
+Push lo que hace es poner el elemento en la ultima posicion del array
+Pop lo que hace primero devuelve el valor y lo quita de la lista.
+
+.unshift: ubica el elemento en la primer posicion del array.
+.shift : quita el primer elemento del array.
