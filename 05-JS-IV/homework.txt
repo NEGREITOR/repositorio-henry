@@ -1,0 +1,11 @@
+Objetos: en los objetos son una entidad independiente que tienen propiedades y tipos. Pueden almacenar mucha informacion sobre una cosa dentro de ellos. Los objetos comienzan y se cierran con llaves {}.
+
+
+Propiedades: le dan una estructura al objeto. Por decirlo asi lo definen, le dan forma. Las propiedades van a ser las caracteristicas que le queremos dar a nuestro objeto, desde valores como null, undefined, booleanos, un numero, o funciones o arrays, e inclusive objetos.
+
+Métodos: son funciones transformadas propiedades. Ejemplo de metodos son el .push y el .pop para los arrays, solo que estos ya estan definidos por JS. Nosotros en un objeto podemos hacer nuestros propios metodos.
+
+Bucle for...in: es un bucle que es bien utilizado para objetos. Se usa para recorrer propiedades dentro de un objeto. comienza con una variable, seguido por la palabra clave IN y el objeto al que le aplicamos el bucle.
+
+Notación de puntos vs notación de corchetes: una de las mas grandes diferencia que tienen entre estos dos tipos de notaciones es que la segunda (notación con corchetes), es mas especifica. Es posible que tengamos menos errores al utilizar la Bracket Notation a comparacion a la Dot Notation.
+
