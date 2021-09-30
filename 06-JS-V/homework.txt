@@ -1,0 +1,3 @@
+prototype: es una propiedad de clase. En él se van a guardar los metodos que asignaremos para que luego, cuando creemos instancias, estas instancias tomen los metodos directo del prototipo de clase. El prototype lo que hace es evitarnos que si tenemos que asignarle el mismo metodo a muchos objetos, no lo hagamos repititivamente sino que los objetos tomen el metodo si le es necesario.
+
+Constructors (de Clases): podemos establecerla con la keyword class o con una funcion Constructura, estos basicamente son nuestras "plantillas" para establecer nuestras instancias u objetos.
