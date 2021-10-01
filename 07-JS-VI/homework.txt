@@ -1,0 +1,8 @@
+Callback: son funciones que son utilizadas como argumentos por otras funciones.
+
+Existen metodos o funciones de arrays que utilizan callbacks particularmente como lo son:
+
+-.map: que crea un nuevo array con los resultados del callback aplicado a cada uno de sus elementos.
+-.forEach: ejecuta el callback una vez por cada elemento del array. Podria decirse qe es un "bucle" en algunos casos.
+-.reduce: ejecuta una función reductora sobre cada elemento de un array, devolviendo como resultado un único valor.
+-.filter: crea un nuevo array con todos los elementos que cumplan la condición implementada por la función dada.
