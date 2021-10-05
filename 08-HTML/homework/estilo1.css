@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(#e66465, #9198e5);
+}
+h1 {
+    text-align: center;
+    background-image: linear-gradient(0.15turn, #3f87a6, #ebf8e1, #f69d3c);    
+}
+img {
+    margin: 10px auto 10px;
+    display: block;
+    width: 400px;
+    border-style:groove;
+    border-width: 10px;
+    border-color: steelblue;
+}
+.spanClass {
+    position: relative; left: 10px;
+}
